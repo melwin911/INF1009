@@ -1,8 +1,0 @@
-bgMusicVolume=0.0
-bgMusicMuted=false
-inGameMusicVolume=0.0
-inGameMusicMuted=false
-endGameMusicVolume=0.0
-endGameMusicMuted=false
-soundsEffectVolume=0.0
-soundsEffectMuted=false
