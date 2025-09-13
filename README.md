@@ -32,6 +32,8 @@ A game engine built using Object Oriented Programming (OOP) paradigm.
 * Abstraction
 * Polymorphism
 
+A 2D game developed using LibGDX and Java, designed to engage and inspire young children with an interest in space exploration.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Built with
@@ -51,6 +53,6 @@ A game engine built using Object Oriented Programming (OOP) paradigm.
     <li><p>Chai Jun Yu - 2301847@sit.singaporetech.edu.sg</p></li>
 </ol>
 
-[Project Link](https://drive.google.com/file/d/1BAkAFXtWOmw4Fsy08k5q49NX497gTlmJ/view?usp=sharing)
+[Project Video](https://drive.google.com/file/d/1BAkAFXtWOmw4Fsy08k5q49NX497gTlmJ/view?usp=sharing)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
