@@ -51,6 +51,6 @@ A game engine built using Object Oriented Programming (OOP) paradigm.
     <li><p>Chai Jun Yu - 2301847@sit.singaporetech.edu.sg</p></li>
 </ol>
 
-[Project Link](https://github.com/Stars1999/OOP-P12-T2)
+[Project Link](https://drive.google.com/file/d/1BAkAFXtWOmw4Fsy08k5q49NX497gTlmJ/view?usp=sharing)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
